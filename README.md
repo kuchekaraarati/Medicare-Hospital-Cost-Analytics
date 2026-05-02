@@ -26,10 +26,10 @@ disparities.
 
 ## 📊 Dataset
 - **Source:** CMS Medicare Inpatient Hospitals 2024
+- **Download:** https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-provider-and-service
 - **Size:** 145,879 rows × 12 columns
-- **Hospitals:** 2,906 US hospitals
-- **Patients:** 4,952,481 Medicare discharges
-
+- **Note:** Raw data not included due to file size. Download directly from CMS website above.
+  
 ## 🔎 Analysis Performed
 
 ### Problem 1 — Hospital Cost Variation
@@ -54,9 +54,7 @@ lower billing ratios.
 
 ## 📁 Repository Structure
 
-├── data/
-│   ├── cms_inpatient_cleaned.csv
-├── queries/
+|── queries/
 │   ├── query1_cost_variation.csv
 │   ├── query2_procedure_overcharge.csv
 │   ├── query3_hospital_efficiency.csv
