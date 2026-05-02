@@ -1,0 +1,15 @@
+Rndrng_Prvdr_RUCA_Desc,Hospital_Count,Total_Patients,Avg_Billed,Avg_Paid,Avg_Medicare_Paid,Charge_Ratio,Avg_Gap
+"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",1992,4401092.0,102027.93,20002.15,16428.69,5.1,82025.78
+"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",50,80755.0,79470.6,14098.1,11906.85,5.64,65372.5
+"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",91,69922.0,75403.05,14557.26,12052.13,5.18,60845.79
+"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",37,18528.0,59875.46,12511.86,10585.8,4.79,47363.6
+"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",36,12565.0,50666.53,12949.06,11148.81,3.91,37717.47
+"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",467,291235.0,50483.4,13128.11,11260.89,3.85,37355.29
+"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",23,21616.0,50118.41,11523.65,9756.87,4.35,38594.76
+"Micropolitan low commuting: primary flow 10% to <30% to a urban cluster of 10,000 to 49,999",2,231.0,44947.76,12869.04,11654.83,3.49,32078.73
+"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",6,2572.0,44127.91,12670.47,10797.64,3.48,31457.44
+"Small town high commuting: primary flow 30% or more to a urban cluster of 2,500 to 9,999",11,1945.0,43494.95,11365.25,9765.69,3.83,32129.71
+"Small town core: primary flow within an urban cluster of 2,500 to 9,999",168,31693.0,42721.56,12610.81,11014.18,3.39,30110.75
+"Small town low commuting: primary flow 10% to <30% to a urban cluster of 2,500 to 9,999",2,158.0,38118.0,10114.87,8428.65,3.77,28003.13
+"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",8,604.0,34918.81,13013.62,11723.66,2.68,21905.2
+"Secondary flow 30% to <50% to a urban cluster of 2,500 to 9,999",1,14.0,15612.07,13282.79,12233.64,1.18,2329.29
