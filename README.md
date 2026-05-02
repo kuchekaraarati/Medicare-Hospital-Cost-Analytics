@@ -53,16 +53,22 @@ Analyzed whether high patient volume correlates with
 lower billing ratios.
 
 ## 📁 Repository Structure
-
-|── queries/
-│   ├── query1_cost_variation.csv
-│   ├── query2_procedure_overcharge.csv
-│   ├── query3_hospital_efficiency.csv
-│   ├── query4_urban_rural.csv
-│   ├── query5_volume_vs_cost.csv
-├── dashboard/
-│   ├── looker_studio_link.md
-└── README.md
+queries/
+├── query1_cost_variation/
+│   ├── query1_cost_variation.sql
+│   └── query1_cost_variation.csv
+├── query2_procedure_overcharge/
+│   ├── query2_procedure_overcharge.sql
+│   └── query2_procedure_overcharge.csv
+├── query3_hospital_efficiency/
+│   ├── query3_hospital_efficiency.sql
+│   └── query3_hospital_efficiency.csv
+├── query4_urban_rural/
+│   ├── query4_urban_rural.sql
+│   └── query4_urban_rural.csv
+├── query5_volume_vs_cost/
+│   ├── query5_volume_vs_cost.sql
+│   └── query5_volume_vs_cost.csv
 
 ## 📈 Dashboard
 🔗 Looker Studio Dashboard — Coming Soon
