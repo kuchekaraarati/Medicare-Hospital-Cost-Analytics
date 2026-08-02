@@ -75,5 +75,3 @@ queries/
 
 ## 👩‍💻 Author
 Aarati | Data Analyst
-📧 Kuchekaraarati2@gmail.com
-🔗 [Your LinkedIn]
