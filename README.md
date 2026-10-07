@@ -70,8 +70,6 @@ queries/
 │   ├── query5_volume_vs_cost.sql
 │   └── query5_volume_vs_cost.csv
 
-## 📈 Dashboard
-🔗 Looker Studio Dashboard — Coming Soon
 
 ## 👩‍💻 Author
 Aarati | Data Analyst
