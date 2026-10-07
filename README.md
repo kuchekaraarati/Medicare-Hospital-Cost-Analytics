@@ -21,7 +21,6 @@ disparities.
 - **Google BigQuery** — Data warehouse & SQL analysis
 - **SQL** — 5 complex analytical queries
 - **Excel** — Data profiling & cleaning
-- **Looker Studio** — Interactive dashboard
 - **GitHub** — Version control
 
 ## 📊 Dataset
